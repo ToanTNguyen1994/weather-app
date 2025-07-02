@@ -1,0 +1,18 @@
+body {
+    background-color: #ffffff;
+    color: #fff;
+}
+
+.card {
+    background-color: #ffffff;
+    border: 1px solid #ffffff;
+    text-align: center;
+}
+
+.card-title {
+    color: #ffc107;
+}
+
+#locationDisplay {
+    color: #0dcaf0;
+}
